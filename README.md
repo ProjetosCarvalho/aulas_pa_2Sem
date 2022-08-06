@@ -1,1 +1,1 @@
-# aulas_pa_2Sem
+# aulas programaçao e algoritmos: 2° semestre
